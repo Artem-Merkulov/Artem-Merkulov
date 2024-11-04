@@ -1,7 +1,7 @@
 | :rocket:Добро пожаловать на мой GitHub! |
 |:--------------------------------------------------------------------------------------------:|
-|👨‍💻 Я DE из GlowByte и на этом репозитории можно увидеть некоторые из моих пилотных [проектов](https://github.com/Artem-Merkulov/e_portfolio/tree/main).|
-|:telephone_receiver: Phone: +79038394440, Email: ArtemMerkulovOff@yandex.ru, Рабочий email: artem.merkulov@glowbyteconsulting.com, [Telegram](https://t.me/tema_merc).|
+|👨‍💻 Я DE из GlowByte и хочу поделиться результатами своего творчества. В репозитории [e_portfolio](https://github.com/Artem-Merkulov/e_portfolio/tree/main) можно увидеть пилотные версии выполненных мной проектов. В [my_knowledge](https://github.com/Artem-Merkulov/my_knowledge) - знания, полученные мной при подготовке к собеседованиям (сейчас my_knowledge на стадии разработки). |
+|Email: ArtemMerkulovOff@yandex.ru, Рабочий email: artem.merkulov@glowbyteconsulting.com.|
 
 ### Star History
 
