@@ -1,17 +1,7 @@
 | :rocket:Добро пожаловать на мой GitHub! |
 |:--------------------------------------------------------------------------------------------:|
-|👨‍💻 Я DE из GlowByte и хочу поделиться результатами своего творчества. В репозитории [e_portfolio](https://github.com/Artem-Merkulov/e_portfolio/tree/main) можно увидеть пилотные версии выполненных мной проектов. В [my_knowledge](https://github.com/Artem-Merkulov/my_knowledge) - знания, полученные мной при подготовке к собеседованиям (сейчас my_knowledge на стадии разработки). |
+|👨‍💻 Я DE из GlowByte и хочу поделиться результатами своего творчества. В репозитории [e_portfolio](https://github.com/Artem-Merkulov/e_portfolio/tree/main) можно увидеть пилотные версии выполненных мной проектов. В [my_knowledge](https://github.com/Artem-Merkulov/my_knowledge) - знания, полученные мной при подготовке к собеседованиям. |
 |Email: ArtemMerkulovOff@yandex.ru, Рабочий email: artem.merkulov@glowbyteconsulting.com.|
-
-### Star History
-
-<a href="https://star-history.com/#Artem-Merkulov/e_portfolio" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Artem-Merkulov/e_portfolio&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Artem-Merkulov/e_portfolio&type=Date" />
-    <img alt="Star History Chart for e_portfolio" src="https://api.star-history.com/svg?repos=Artem-Merkulov/e_portfolio&type=Date" />
-  </picture>
-</a>
 
 ### Summary Cards
 ![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artem-Merkulov&theme=solarized_dark)
