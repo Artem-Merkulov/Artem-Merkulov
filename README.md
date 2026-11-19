@@ -1,51 +1,46 @@
-| :rocket:Добро пожаловать на мой GitHub! |
-|:--------------------------------------------------------------------------------------------:|
-|👨‍💻 Я DE из GlowByte и хочу поделиться результатами своего творчества. В репозитории [e_portfolio](https://github.com/Artem-Merkulov/e_portfolio/tree/main) можно увидеть пилотные версии выполненных мной проектов. В [my_knowledge](https://github.com/Artem-Merkulov/my_knowledge) - знания, полученные мной при подготовке к собеседованиям. |
-|Email: ArtemMerkulovOff@yandex.ru, Рабочий email: artem.merkulov@glowbyteconsulting.com.|
+### Привет, я Артём 👋
 
-### Summary Cards
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artem-Merkulov&theme=solarized_dark)
-![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Artem-Merkulov&theme=solarized_dark)
-![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Artem-Merkulov&theme=solarized_dark)
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Artem-Merkulov&theme=solarized_dark)
-![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Artem-Merkulov&theme=solarized_dark)
+Инженер данных. Проектирую и собираю DWH: от сырых источников до витрин, на которых считают деньги.
+Работаю с миграциями, оркестрацией и сходимостью данных — там, где «перелилось» недостаточно,
+нужно доказать, что перелилось правильно.
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/ytc/AIdro_lNEa3QneSQzUJlWn2VkzntYlPGWO4D0N_TdGIDrT-p=s900-c-k-c0x00ffffff-no-rj" alt="github" width="40" height="40"/> </a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.ga4bigquery.com/content/images/2022/11/Screenshot-2022-11-28-at-11.18.28.png" alt="dbt" width="80" height="40"/> </a>
-<a href="https://www.greenplum.org/" target="_blank" rel="noreferrer"> <img src="https://www.zohowebstatic.com/sites/zweb/images/otherbrandlogos/greenplum-icon.png" alt="greenplum" width="40" height="40"/> </a>
+**Что делаю сейчас**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://de.linkedin.com/in/artem-merkulov-8651b8280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://de.linkedin.com/in/artem-merkulov-8651b8280" height="30" width="40" /></a>
-<a href="https://instagram.com/tema_merc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tema_merc" height="30" width="40" 
-/></a>
-<a href="https://t.me/tema_merc" target="blank"><img align="center" src="https://noves-shop.biz/media/products/d4a652c043133373eee16c0e970f2c18.png" alt="tema_merc" height="40" width="40" 
-/></a>
-</p>
+- Проектирую переиспользуемые решения для миграции данных: единое ядро и сменные адаптеры под источники
+- Строю оркестрацию загрузок и сверок на Airflow 3 (событийный механизм Assets)
+- Пишу компараторы на Spark: сверка истории и инкремента, гарантия полного сходства объектов
+- Работаю с AI-агентами как с исполнителями: постановка задачи, ревью, контроль корректности
 
-<!--
-**Artem-Merkulov/Artem-Merkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Стек**
 
-Here are some ideas to get you started:
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![Iceberg](https://img.shields.io/badge/Iceberg-2B6CB0?style=flat-square&logo=apacheiceberg&logoColor=white)
+![Greenplum](https://img.shields.io/badge/Greenplum-2C7A4B?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| **Хранилища** | Greenplum / Arenadata, Oracle, Vertica, PostgreSQL, ClickHouse, Trino, Hadoop (HDFS, YARN) |
+| **Озёра и форматы** | Apache Iceberg, Parquet, S3 |
+| **ETL / оркестрация** | dbt, Apache Airflow 3, Astronomer Cosmos, Apache Kafka, Spark Structured Streaming |
+| **Модели данных** | Data Vault 2.0, «звезда», «снежинка», Data Mesh, медальонная архитектура, SCD0/2/4 |
+| **Инфраструктура** | Docker, Kubernetes (базово), GitLab CI/CD, Jenkins, Git, Flyway, Liquibase |
+| **BI** | Yandex DataLens, Metabase, Tableau |
+
+**Проекты**
+
+- [e_portfolio](https://github.com/Artem-Merkulov/e_portfolio) — учебные и пилотные проекты по Data Engineering и анализу данных: от ETL-пайплайнов на Airflow и Spark до DWH в облаке
+- [my_knowledge](https://github.com/Artem-Merkulov/my_knowledge) — конспекты по Airflow, dbt, Docker, Kafka, Kubernetes, СУБД и алгоритмам
+
+**Связаться**
+
+[![Telegram](https://img.shields.io/badge/Telegram-tema__merc-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tema_merc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-artem--merkulov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-merkulov-8651b8280)
+[![Email](https://img.shields.io/badge/Email-ArtemMerkulovOff%40yandex.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ArtemMerkulovOff@yandex.ru)
