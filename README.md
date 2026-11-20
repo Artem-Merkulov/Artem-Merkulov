@@ -42,5 +42,5 @@
 **Связаться**
 
 [![Telegram](https://img.shields.io/badge/Telegram-tema__merc-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tema_merc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem_Merkulov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BC%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%BE%D0%B2-884546346)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem_Merkulov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-mer-884546346)
 [![Email](https://img.shields.io/badge/Email-ArtemMerkulovOff%40yandex.ru-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ArtemMerkulovOff@yandex.ru)
